@@ -2,7 +2,7 @@
 
 
 ## Motivation
-This is an exploration of sales data. Every business has transactions, but not everyone knows what to do with the data. With Order ID, Product	Quantity, Ordered, Price Each,	Order Date, Purchase Address, we show data trends.
+This is an exploration of sales data. Every business has transactions, but not everyone knows what to do with the data. With Order ID, Product	Quantity, Ordered, Price Each,	Order Date, Purchase Address, we can show trends.
 
 ## Data Cleanup
 There are 10 files, and by concatenating each file, the columns names are merged into the rows. In addition, every columns have the same amount of missing rows. We can drop all the missing data. By using the purchase address, we can get the city and state. 
