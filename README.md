@@ -16,7 +16,7 @@ There are 10 files, and by concatenating each file, the columns names are merged
 
 ## Data exploration
 
-First, we can see the total revenue per month, we noticed the sales increase in October, November, and December
+First, we can see the total revenue per month. We noticed the sales increase in October, November, and December.
 
 <div align="center">
     <img alt="churn" src="Images/RevenuePerMonth.png">
