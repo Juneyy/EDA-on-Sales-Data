@@ -1,5 +1,8 @@
 # EDA-on-Sales-Data
 
+<div align="center">
+    <img alt="churn" src="Images/BusinessData.jpg">
+</div>
 
 ## Motivation
 This is an exploration of sales data. Every business has transactions, but not everyone knows what to do with the data. With Order ID, Product	Quantity, Ordered, Price Each,	Order Date, Purchase Address, we can show trends.
