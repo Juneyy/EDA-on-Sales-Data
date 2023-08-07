@@ -40,7 +40,7 @@ Now, let's see the popular items. The most popular item is the USB-C Charging Ca
     <img alt="churn" src="Images/MostPopularItem.png">
 </div>
 
-Are there any products that sold together? The order id column takes multiple items and consider it as one order. By grouping the product and order column, we can get a sense of what items are bought together. The most popular items boought together are iPhone and Lighting Charging Cable
+Are there any products that sold together? The order id column takes multiple items and consider it as one order. By grouping the product and order column, we can get a sense of what items are bought together. The most popular items boought together are iPhone and Lighting Charging Cable.
 
 <div align="center">
     <img alt="churn" src="Images/ProductSoldTogether.png">
